@@ -56,6 +56,3 @@ solotiktaktoe.py   # Main game script
 ---
 
 Feel free to fork, contribute, or build upon this project!
-
-```
----
